@@ -1,0 +1,132 @@
+h1{
+    color:rgb(71,71,182);
+    text-align:center;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+h3{
+    color:rgb(230, 47, 47);
+    text-align:center;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.navbar{
+  background-color: rgb(43, 43, 192);
+  text-align: center;
+}
+.navbar a{
+  color: white;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 30px;
+  padding:25px;
+  text-decoration: none;
+}
+.button {
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  width: 15%;
+  border-radius: 10px;
+}
+
+.button1 {
+  background-color: white; 
+  color: black; 
+  border: 2px solid #04AA6D;
+}
+
+.button1:hover {
+  background-color: #04AA6D;
+  color: white;
+}
+
+.button2 {
+  background-color: white; 
+  color: black; 
+  border: 2px solid #f37c2c;
+}
+
+.button2:hover {
+  background-color: #f37c2c;
+  color: white;
+}
+.button3 {
+  background-color: white; 
+  color: black; 
+  border: 2px solid #04AA6D;
+}
+
+.button3:hover {
+  background-color: #04AA6D;
+  color: white;
+}
+
+.button4 {
+  background-color: white; 
+  color: black; 
+  border: 2px solid #f37c2c;
+}
+
+.button4:hover {
+  background-color: #f37c2c;
+  color: white;
+}
+.button5 {
+  background-color: white; 
+  color: black; 
+  border: 2px solid #04AA6D;
+}
+
+.button5:hover {
+  background-color: #04AA6D;
+  color: white;
+}
+
+.button6 {
+  background-color: white; 
+  color: black; 
+  border: 2px solid #f37c2c;
+}
+
+.button6:hover {
+  background-color: #f37c2c;
+  color: white;
+}
+.button7 {
+  background-color: white; 
+  color: black; 
+  border: 2px solid #04AA6D;
+}
+
+.button7:hover {
+  background-color: #04AA6D;
+  color: white;
+}
+
+.button8 {
+  background-color: white; 
+  color: black; 
+  border: 2px solid #f37c2c;
+}
+
+.button8:hover {
+  background-color: #f37c2c;
+  color: white;
+}
+.button9 {
+  background-color: white; 
+  color: black; 
+  border: 2px solid #04AA6D;
+}
+
+.button9:hover {
+  background-color:#04AA6D;
+  color: white;
+}
