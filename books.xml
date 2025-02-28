@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="books.xsl"?>
+<!DOCTYPE books SYSTEM "books.dtd">
+<books>
+    <book>
+        <title>Introduction to XML</title>
+        <author>John Doe</author>
+        <isbn>978-3-16-148410-0</isbn>
+        <publisher>Tech Publishers</publisher>
+        <edition>1st</edition>
+        <price>29.99</price>
+    </book>
+    <book>
+        <title>Advanced XML Techniques</title>
+        <author>Jane Smith</author>
+        <isbn>978-1-23-456789-1</isbn>
+        <publisher>Tech Publications</publisher>
+        <edition>2nd</edition>
+        <price>39.95</price>
+    </book>
+    <book>
+        <title>XML for Beginners</title>
+        <author>Michael Johnson</author>
+        <isbn>978-0-12-345678-9</isbn>
+        <publisher>Beginner Books</publisher>
+        <edition>3rd</edition>
+        <price>19.99</price>
+    </book>
+    <book>
+        <title>Mastering XML</title>
+        <author>Alice Brown</author>
+        <isbn>978-1-11-213415-2</isbn>
+        <publisher>Expert Publishers</publisher>
+        <edition>1st</edition>
+        <price>49.95</price>
+    </book>
+</books>
